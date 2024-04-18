@@ -1,0 +1,14 @@
+[	
+	{
+		"name": "Space Marine",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Imperium of Man",
+		"movement": 3,
+		"requiredTech": "Mobile Tactics",
+		"strength": 110,
+		"cost": 440,
+		"promotions": ["Charge", "Armor Plating I"],
+		"uniques": ["Never appears as a Barbarian unit", "May Paradrop up to [4] tiles from inside friendly territory", "Limited to [3] per Civilization"], 
+		"attackSound": "tankshot"
+	},
+]

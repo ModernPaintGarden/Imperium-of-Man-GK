@@ -1,0 +1,14 @@
+[	
+	{
+		"name": "Imperial Bastion",
+		"replaces": "Walls",
+		"cost": 75,
+		"uniqueTo": "Imperium of Man",
+		"cityStrength": 7,
+		"cityHealth": 50,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured", "All newly-trained [non-[Air]] units [in this city] receive the [Accuracy I] promotion"],
+		"requiredTech": "Masonry"
+	},
+]
